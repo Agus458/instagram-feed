@@ -1,0 +1,49 @@
+/* STYLES */
+
+body {
+    background: rgb(211, 211, 211);
+    margin: 0%;
+    font-family: 'Poppins';
+}
+
+div .nav {
+    background: white;
+}
+
+div .nav h1 {
+    margin: 0%;
+    padding: 20px;
+}
+
+div .post {
+    margin-top: 60px;
+    background: white;
+    border-radius: 4px;
+}
+
+div .post .post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div .post .post-header .date {
+    padding: 15px;
+    color: rgb(161, 161, 161);
+}
+
+div .post h2, div .post p {
+    padding: 15px;
+    margin: 0%;
+}
+
+div .post img {
+    width: 100%;
+    margin: 0%;
+}
+
+div .container{
+    width: 600px;
+    margin: auto;
+}
+
